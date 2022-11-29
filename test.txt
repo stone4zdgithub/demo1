@@ -1,5 +1,9 @@
 this is a test.txt
 随便打点内容在里，这个是啥东西
 sd ads adf 新增加了内容，修改了文件。
-这个是第三次修改。master 在这里修改了内容。
+
+master 在这里修改了内容。
+
+hot-fix在这里进行了修改
+
 这个是在 hot-fix 分支上进行的内容的修改。
